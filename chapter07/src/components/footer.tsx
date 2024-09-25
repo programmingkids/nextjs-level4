@@ -1,5 +1,5 @@
 export const Footer = function () {
-  console.log("This is foolter");
+  console.log('This is footer');
   return (
     <div className="main p-4 bg-indigo-600">
       <h2 className="p-2 text-lg text-white">---- We Love NextJS ----</h2>
