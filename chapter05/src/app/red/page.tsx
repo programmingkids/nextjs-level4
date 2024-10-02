@@ -1,9 +1,9 @@
-"use client";
+'use client';
 
-import { useState } from "react";
+import { useState } from 'react';
 
 export default function Page() {
-  console.log("This is red page");
+  console.log('This is red page');
   const [count, setCount] = useState(0);
 
   const handleClick = () => {
